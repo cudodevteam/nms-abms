@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\01. Work\\16. LGU+ AMBS\\01. Source\\nms_abms_web__\\nms-abms-web\\nms_abms_web.csproj": {}
+  },
+  "projects": {
+    "F:\\01. Work\\16. LGU+ AMBS\\01. Source\\nms_abms_web__\\nms-abms-web\\nms_abms_web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\01. Work\\16. LGU+ AMBS\\01. Source\\nms_abms_web__\\nms-abms-web\\nms_abms_web.csproj",
+        "projectName": "nms_abms_web",
+        "projectPath": "F:\\01. Work\\16. LGU+ AMBS\\01. Source\\nms_abms_web__\\nms-abms-web\\nms_abms_web.csproj",
+        "packagesPath": "C:\\Users\\LeeSooGwan\\.nuget\\packages\\",
+        "outputPath": "F:\\01. Work\\16. LGU+ AMBS\\01. Source\\nms_abms_web__\\nms-abms-web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LeeSooGwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Google.Cloud.Functions.Hosting": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Google.Events.Protobuf": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

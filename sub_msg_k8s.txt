@@ -1,0 +1,23 @@
+{
+  "insertId": "000000-d2c738e7-e5de-450d-ad65-cf750b15e73f",
+  "jsonPayload": {
+    "message": "Message : { \"data\": \"eyJpbnNlcnRJZCI6IjhpMXR2NHo3ZGJpbjloOXUiLCJsYWJlbHMiOnsiY29tcHV0ZS5nb29nbGVhcGlzLmNvbS9yZXNvdXJjZV9uYW1lIjoiZ2tlLWt1YmUtc3RhbmQtYWJtcy0ta3ViZS1zdGFuZC1hYm1zLS0zNTAzM2U4ZC1nNWRyIiwiazhzLXBvZC9hcHAiOiJhYm1zLXdlYi1kZXYiLCJrOHMtcG9kL3BvZC10ZW1wbGF0ZS1oYXNoIjoiNjdiNjQ5OGI1NSJ9LCJsb2dOYW1lIjoicHJvamVjdHMvcGp0LXVwbHVzLWFidGVzdC1hYm1zLWRldi9sb2dzL3N0ZG91dCIsInJlY2VpdmVUaW1lc3RhbXAiOiIyMDIxLTExLTEwVDAyOjQ0OjUyLjQyMjk2NDI1M1oiLCJyZXNvdXJjZSI6eyJsYWJlbHMiOnsiY2x1c3Rlcl9uYW1lIjoia3ViZS1zdGFuZC1hYm1zLWRldiIsImNvbnRhaW5lcl9uYW1lIjoiYWJtcy1zaGEyNTYtMSIsImxvY2F0aW9uIjoiYXNpYS1ub3J0aGVhc3QzIiwibmFtZXNwYWNlX25hbWUiOiJkZWZhdWx0IiwicG9kX25hbWUiOiJhYm1zLXdlYi1kZXYtNjdiNjQ5OGI1NS1sN2JseCIsInByb2plY3RfaWQiOiJwanQtdXBsdXMtYWJ0ZXN0LWFibXMtZGV2In0sInR5cGUiOiJrOHNfY29udGFpbmVyIn0sInNldmVyaXR5IjoiSU5GTyIsInRleHRQYXlsb2FkIjoiMjAyMS0xMS0xMCAxMTo0NDo1MC4xMjcgSU5GTyAgWzM1LjE5MS4xMy4yMzNdIFsvYWJtcy9hcGkvdGVzdF0gW0dFVF0gW0VORF0gLSBbMDA6MDA6MDAuMDEwXSBbMjAwM10gW0RCXVxuIiwidGltZXN0YW1wIjoiMjAyMS0xMS0xMFQwMjo0NDo1MC4xMzY3MzE3OThaIn0=\", \"attributes\": { \"logging.googleapis.com/timestamp\": \"2021-11-10T02:44:50.136731798Z\" }, \"messageId\": \"3465468391476540\", \"publishTime\": \"2021-11-10T02:44:53.209Z\" }",
+    "category": "nmsAbmsWeb.Function"
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "function_name": "function-asia-northeast3-nms-abms-web",
+      "project_id": "pjt-uplus-abtest-abms-dev",
+      "region": "asia-northeast3"
+    }
+  },
+  "timestamp": "2021-11-10T02:44:54.471Z",
+  "severity": "INFO",
+  "labels": {
+    "execution_id": "3sq5r3mo6jp3"
+  },
+  "logName": "projects/pjt-uplus-abtest-abms-dev/logs/cloudfunctions.googleapis.com%2Fcloud-functions",
+  "trace": "projects/pjt-uplus-abtest-abms-dev/traces/259cae0aac3e2d7b4e5116c8feafb974",
+  "receiveTimestamp": "2021-11-10T02:45:05.144353225Z"
+}
